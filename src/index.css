@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.icon-container:hover img {
+    filter: invert(49%) sepia(67%) saturate(462%) hue-rotate(314deg) brightness(95%) contrast(90%);
+}
+ label {
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    font-weight: 700;
+    display: block;
+    margin-bottom: 0.5rem;
+ }
+ input[type="text"],
+ input[type="email"],
+ input[type="tel"] {
+    border-width: 1px;
+    width: 100%;
+    padding: 0.75rem 1.25rem;
+    font-size: 0.875rem;
+    line-height: 1.25rem;
+    border-radius: 0.5rem;
+    outline-width: 1px;
+    caret-color: #d87d4a;
+ }
+ input[type="text"]:hover,
+ input[type="email"]:hover,
+ input[type="tel"]:hover {
+   border-color: #d87d4a;
+   transition: ease-in-out 150ms;
+   cursor: pointer;
+ }
