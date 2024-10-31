@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [my solution](https://www.frontendmentor.io/solutions/audiophile-challenge-with-react-typescript-react-router-zustand-xucH2J5W8-)
 - Live Site URL: [:)](https://app.netlify.com/sites/tiny-crostata-2da291/overview)
 
 ## My process
